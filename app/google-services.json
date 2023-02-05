@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165532229110",
+    "project_id": "trackappusage",
+    "storage_bucket": "trackappusage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165532229110:android:8dacc295d01d21308fbbd7",
+        "android_client_info": {
+          "package_name": "com.jagan.trackappusage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165532229110-0odsa4l3di944bol3vv9mjtt1u6n91gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuL408oVFRTo9Jzn28eDKwj1qVi8VyT_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165532229110-0odsa4l3di944bol3vv9mjtt1u6n91gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
